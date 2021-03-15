@@ -1,5 +1,5 @@
 {
-    "name": "barryvdh/laravel-dompdf",
+    "name": "aamr.hosney/laravel-dompdf",
     "description": "A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
@@ -10,8 +10,10 @@
         }
     ],
     "require": {
+        
         "php": "^7.2 || ^8.0",
-        "dompdf/dompdf": "^1",
+        "amr.hosney/ar-php": "^1",
+        "amr.hosney/dompdf": "^1",
         "illuminate/support": "^6|^7|^8"
     },
     "require-dev": {
